@@ -9,6 +9,10 @@
 		<meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1"/>
 </head>
 <style>
+    
+    body{
+            background-color: #D3D3D3;
+        }
         .container-main {
             margin: auto;
             width: 100%;

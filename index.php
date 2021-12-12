@@ -9,6 +9,9 @@
             <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1"/>
     </head>
     <style>
+        body{
+            background-color: #D3D3D3;
+        }
         .table-content {
             padding-top: 10px;
         }
@@ -39,7 +42,7 @@
         <div class="container index">
             <h3>List of Students</h3>
             <div class="table-content">
-                <table class="table table-bordered table-striped table-sm" >
+                <table class="table table-bordered table-dark table-striped" >
                 <thead>
                     <tr>
                         <th>Fullname</th>
